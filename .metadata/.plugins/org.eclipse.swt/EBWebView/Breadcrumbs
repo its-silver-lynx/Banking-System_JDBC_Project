@@ -1,0 +1,76 @@
+0:03:17 Tab1 PageLoad
+0:03:26 Tab1 StartNav15 #typed
+0:03:26 Tab1 FinishNav15
+0:03:26 Tab1 PageLoad
+0:03:27 Tab1 StartNav16 #typed
+0:03:27 Tab1 FinishNav16
+0:03:27 Tab1 PageLoad
+0:03:35 Tab1 StartNav17 #typed
+0:03:35 Tab1 FinishNav17
+0:03:35 Tab1 PageLoad
+0:03:36 Tab1 StartNav18 #typed
+0:03:36 Tab1 FinishNav18
+0:03:36 Tab1 PageLoad
+0:03:41 Tab1 StartNav19 #typed
+0:03:41 Tab1 FinishNav19
+0:03:41 Tab1 PageLoad
+0:03:48 Microsoft.BrowserList.AddBrowser
+0:03:48 Browser2 Insert active Tab2 at 0
+0:03:48 Tab2 StartNav20 #auto_toplevel
+0:03:48 Tab2 StartNav21 #typed
+0:03:48 Tab2 FinishNav20
+0:03:48 Tab2 PageLoad
+0:03:48 Tab2 FinishNav21
+0:03:48 Tab2 PageLoad
+0:03:48 Tab2 StartNav22 #typed
+0:03:48 Tab2 FinishNav22
+0:03:48 Tab2 PageLoad
+0:03:49 Tab2 StartNav23 #typed
+0:03:49 Tab2 FinishNav23
+0:03:49 Tab2 PageLoad
+0:03:51 Tab2 StartNav24 #typed
+0:03:51 Tab2 FinishNav24
+0:03:51 Tab2 PageLoad
+0:03:52 Tab2 StartNav25 #typed
+0:03:53 Tab2 FinishNav25
+0:03:53 Tab2 PageLoad
+0:03:56 Tab1 StartNav26 #typed
+0:03:56 Tab1 FinishNav26
+0:03:56 Tab1 PageLoad
+0:04:02 Tab1 StartNav27 #typed
+0:04:02 Tab1 FinishNav27
+0:04:02 Tab1 PageLoad
+0:04:08 Tab1 StartNav28 #typed
+0:04:08 Tab1 FinishNav28
+0:04:08 Tab1 PageLoad
+0:04:12 Tab1 StartNav29 #typed
+0:04:12 Tab1 FinishNav29
+0:04:12 Tab1 PageLoad
+0:04:20 Tab1 StartNav30 #typed
+0:04:20 Tab1 FinishNav30
+0:04:20 Tab1 PageLoad
+0:04:23 Tab1 StartNav31 #typed
+0:04:23 Tab1 FinishNav31
+0:04:23 Tab1 PageLoad
+0:04:28 Tab1 StartNav32 #typed
+0:04:28 Tab1 FinishNav32
+0:04:28 Tab1 PageLoad
+0:09:34 Tab1 StartNav33 #typed
+0:09:34 Tab1 FinishNav33
+0:09:34 Tab1 PageLoad
+0:09:39 Tab1 StartNav34 #typed
+0:09:39 Tab1 FinishNav34
+0:09:39 Tab1 PageLoad
+0:09:42 Tab1 StartNav35 #typed
+0:09:42 Tab1 FinishNav35
+0:09:42 Tab1 PageLoad
+0:09:44 Tab1 StartNav36 #typed
+0:09:44 Tab1 FinishNav36
+0:09:44 Tab1 PageLoad
+0:30:09 Tab1 StartNav37 #typed
+0:30:09 Tab1 FinishNav37
+0:30:09 Tab1 PageLoad
+0:30:16 Tab1 StartNav38 #typed
+0:30:16 Tab1 FinishNav38
+0:30:16 Tab1 PageLoad
+0:30:18 Microsoft.Shutdown.OnWindowClosing
