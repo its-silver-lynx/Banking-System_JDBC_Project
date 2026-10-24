@@ -2,25 +2,25 @@
 
 A console-based **Banking Management System** built using **Java, JDBC, and MySQL**. The application allows users to manage bank accounts and perform basic banking transactions through a command-line interface.
 
-## ✨ Features
+## Features
 
-- 📝 User registration
-- 🔐 User login and authentication
-- 🏦 Create a new bank account
-- 💰 Credit money
-- 💸 Debit money
-- 🔄 Transfer money between accounts
-- 📊 Check account balance using a security PIN
-- 🚪 Logout and exit the application
+- User registration
+- User login and authentication
+- Create a new bank account
+- Credit money
+- Debit money
+- Transfer money between accounts
+- Check account balance using a security PIN
+- Logout and exit the application
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java**
 - **JDBC**
 - **MySQL**
 - **MySQL Connector/J**
 
-## 🗄️ Database
+## Database
 
 The application uses a MySQL database named `banking_db` with two tables: `User` and `Accounts`.
 
@@ -46,7 +46,7 @@ CREATE TABLE user (
 );
 ```
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository.
 2. Create the `banking_db` database and the required tables.
@@ -54,7 +54,7 @@ CREATE TABLE user (
 4. Add the MySQL JDBC driver to the project.
 5. Run `BankingApp.java`.
 
-## 📚 Concepts Practiced
+## Concepts Practiced
 
 - Java Classes & Objects
 - Constructors and Encapsulation
@@ -67,13 +67,13 @@ CREATE TABLE user (
 - Transaction Management using `commit()` and `rollback()`
 - User Input using `Scanner`
 
-## Usage 📋
+## Usage
 
 Upon running the application, users can register or log in to access banking operations.
 
 After logging in, users can open a bank account and perform transactions, including crediting money, debiting money, transferring funds, and checking their account balance.
 
-## 👨‍💻 Author
+## Author
 
 **Priyanshu**
 
