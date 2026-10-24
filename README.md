@@ -28,20 +28,21 @@ The application uses a MySQL database named `banking_db` with two tables: `User`
 CREATE DATABASE banking_db;
 USE banking_db;
 
-CREATE TABLE User (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    full_name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) UNIQUE NOT NULL,
-    password VARCHAR(100) NOT NULL
+CREATE TABLE accounts (
+    account_number BIGINT NOT NULL,
+    full_name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    balance DECIMAL(10,2) NOT NULL,
+    security_pin CHAR(4) NOT NULL,
+    PRIMARY KEY (account_number),
+    UNIQUE KEY (email)
 );
 
-CREATE TABLE Accounts (
-    account_number BIGINT PRIMARY KEY,
-    full_name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) NOT NULL,
-    balance DECIMAL(15, 2) NOT NULL,
-    security_pin VARCHAR(10) NOT NULL,
-    FOREIGN KEY (email) REFERENCES User(email)
+CREATE TABLE user (
+    full_name VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    PRIMARY KEY (email)
 );
 ```
 
